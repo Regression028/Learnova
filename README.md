@@ -1,4 +1,4 @@
-# Trainology
+# Learnova
 
 A full-stack online learning platform (an e-learning marketplace, similar in spirit to Udemy) where **educators** can create and sell video courses, and **students** can browse, purchase, and track progress through them. Built with the MERN stack, integrated with Clerk for authentication, Stripe for payments, and Cloudinary for media storage.
 
